@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HotchTest</string>
+    <string name="title_activity_main2">HotchTest</string>
+
+    <string name="hint_person_name">FullName</string>
+    <string name="empty_not_saved_pname">Person not saved because it is empty.</string>
+
+    <string name="hint_email">Email</string>
+    <string name="empty_not_saved_pdescription">Person not saved because it is empty.</string>
+
+    <string name="hint_phonenumber">Phone Number</string>
+    <string name="enter_interst">Please Add upto 5 comma separated interests</string>
+
+
+    <string name="button_save">Save</string>
+</resources>
