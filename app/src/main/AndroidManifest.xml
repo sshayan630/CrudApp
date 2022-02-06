@@ -12,9 +12,9 @@
         <activity android:name="com.example.shayan.hotchTest.activity.NewPersonActivity"></activity>
         <activity
             android:name="com.example.shayan.hotchTest.activity.MainActivity"
+            android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar"
-            android:exported="true">
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
